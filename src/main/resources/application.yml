@@ -1,8 +1,7 @@
 server:
-  port: 8104
-  context-path: /api/springbootCaching
-
-
+  port: 8106
+  servlet:
+    context-path: /api/springbootCaching
 
 
 spring:
